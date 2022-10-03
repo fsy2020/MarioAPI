@@ -5,6 +5,6 @@
 Install and configure springboot and maven and mysql
 
 2022/10/04
-Install and configure springboot and maven and mysql
+configure the mysql and set a password for mysql.
 
 
